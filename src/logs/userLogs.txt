@@ -1,0 +1,8 @@
+El usuario ingreso a la ruta: /admin?user=Ada
+El usuario ingreso a la ruta: /admin?user=Ada
+El usuario ingreso a la ruta: /
+El usuario ingreso a la ruta: /Login
+El usuario ingreso a la ruta: /Products
+El usuario ingreso a la ruta: /Products
+El usuario ingreso a la ruta: /Admin
+El usuario ingreso a la ruta: /Admin
